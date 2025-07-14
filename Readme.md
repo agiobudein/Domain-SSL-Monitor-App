@@ -1,4 +1,4 @@
-# SSL Domain Monitor
+# Domain-SSL Monitor
 
 A comprehensive Spring Boot application for monitoring SSL certificate expiry dates across multiple domains with async processing, database storage, and REST API endpoints.
 
