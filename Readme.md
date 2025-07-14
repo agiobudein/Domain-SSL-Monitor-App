@@ -1,4 +1,4 @@
-# SSL Domain Monitor
+# Domain-SSL Monitor
 
 A comprehensive Spring Boot application for monitoring SSL certificate expiry dates across multiple domains with async processing, database storage, and REST API endpoints.
 
@@ -20,7 +20,7 @@ A comprehensive Spring Boot application for monitoring SSL certificate expiry da
 
 - Java 17+
 - Maven 3.6+
-- Docker & Docker Compose
+- Docker
 
 ### Running with Docker (Recommended)
 
@@ -115,7 +115,7 @@ spring:
 ```
 ssl-domain-monitor/
 ├── src/main/java/com/monitor/ssl/
-│   ├── SslDomainMonitorApplication.java
+│   ├── Application.java
 │   ├── config/                 # Configuration classes
 │   ├── controller/            # REST controllers
 │   ├── dto/                   # Data transfer objects
