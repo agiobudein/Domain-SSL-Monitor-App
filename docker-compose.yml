@@ -3,7 +3,7 @@ version: '3.8'
 services:
   ssl-monitor:
     build:
-      context: .
+      context: src
       dockerfile: docker/Dockerfile
     container_name: ssl-monitor-app
     ports:
