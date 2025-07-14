@@ -20,7 +20,7 @@ A comprehensive Spring Boot application for monitoring SSL certificate expiry da
 
 - Java 17+
 - Maven 3.6+
-- Docker & Docker Compose
+- Docker
 
 ### Running with Docker (Recommended)
 
