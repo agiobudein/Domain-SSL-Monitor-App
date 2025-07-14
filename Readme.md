@@ -115,7 +115,7 @@ spring:
 ```
 ssl-domain-monitor/
 ├── src/main/java/com/monitor/ssl/
-│   ├── SslDomainMonitorApplication.java
+│   ├── Application.java
 │   ├── config/                 # Configuration classes
 │   ├── controller/            # REST controllers
 │   ├── dto/                   # Data transfer objects
