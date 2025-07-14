@@ -1,7 +1,7 @@
 package com.exampleDomain.Domain_SSL.Monitor.App.dto;
 
 
-import com.exampleDomain.Domain_SSL.Monitor.App.model.CertificateStatus;
+import com.exampleDomain.Domain_SSL.Monitor.App.enums.CertificateStatus;
 
 import java.time.LocalDateTime;
 

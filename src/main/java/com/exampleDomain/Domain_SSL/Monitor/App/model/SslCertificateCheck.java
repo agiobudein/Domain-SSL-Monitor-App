@@ -1,6 +1,7 @@
 package com.exampleDomain.Domain_SSL.Monitor.App.model;
 
 
+import com.exampleDomain.Domain_SSL.Monitor.App.enums.CertificateStatus;
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;

@@ -1,7 +1,7 @@
 package com.exampleDomain.Domain_SSL.Monitor.App.repository;
 
 
-import com.exampleDomain.Domain_SSL.Monitor.App.model.CertificateStatus;
+import com.exampleDomain.Domain_SSL.Monitor.App.enums.CertificateStatus;
 import com.exampleDomain.Domain_SSL.Monitor.App.model.SslCertificateCheck;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

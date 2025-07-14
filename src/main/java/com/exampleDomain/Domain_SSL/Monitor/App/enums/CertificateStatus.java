@@ -1,4 +1,4 @@
-package com.exampleDomain.Domain_SSL.Monitor.App.model;
+package com.exampleDomain.Domain_SSL.Monitor.App.enums;
 
 public enum CertificateStatus {
     VALID,

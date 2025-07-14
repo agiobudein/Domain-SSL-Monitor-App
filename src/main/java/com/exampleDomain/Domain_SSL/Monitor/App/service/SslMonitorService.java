@@ -2,7 +2,7 @@ package com.exampleDomain.Domain_SSL.Monitor.App.service;
 
 import com.exampleDomain.Domain_SSL.Monitor.App.dto.SslCheckRequestDto;
 import com.exampleDomain.Domain_SSL.Monitor.App.dto.SslCheckResponseDto;
-import com.exampleDomain.Domain_SSL.Monitor.App.model.CertificateStatus;
+import com.exampleDomain.Domain_SSL.Monitor.App.enums.CertificateStatus;
 import com.exampleDomain.Domain_SSL.Monitor.App.model.SslCertificateCheck;
 
 import java.util.List;
